@@ -1,0 +1,4 @@
+﻿  AdventOfCode3.cpp
+C:\Users\Jonathan\source\repos\AdventOfCode3\AdventOfCode3\AdventOfCode3.cpp(171,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jonathan\source\repos\AdventOfCode3\AdventOfCode3\AdventOfCode3.cpp(173,27): warning C4018: '<': signed/unsigned mismatch
+  AdventOfCode3.vcxproj -> C:\Users\Jonathan\source\repos\AdventOfCode3\Debug\AdventOfCode3.exe
